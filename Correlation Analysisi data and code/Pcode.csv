@@ -1,0 +1,59 @@
+,LocationID,February,March,April,May,June,July,August,September,Octorber,Novermber,December,January(2021),February(2021),OBJECTID,zone,borough
+0,74,31143,-13400,-14143,1456,1284,537,214,1000,650,-546,-862,-644,-596,74,East Harlem North,Manhattan
+1,75,26244,-10625,-12347,1404,1329,870,-890,694,759,-687,-77,-486,-776,75,East Harlem South,Manhattan
+2,41,23022,-9342,-10947,616,599,376,217,117,144,-178,21,-454,-643,41,Central Harlem,Manhattan
+3,166,16673,-8635,-7172,116,478,315,79,318,59,-94,-281,77,-316,166,Morningside Heights,Manhattan
+6,42,14376,-5003,-6864,1294,-271,94,73,7,62,-286,-285,-410,-254,42,Central Harlem North,Manhattan
+9,244,11041,-4507,-5072,394,178,303,64,91,301,-215,-190,220,0,244,Washington Heights South,Manhattan
+18,116,6188,-2588,-2870,362,27,226,-37,-30,166,-163,-197,3,-209,116,Hamilton Heights,Manhattan
+20,43,4505,-1831,-2426,178,461,152,-31,359,279,-191,-109,-12,-333,43,Central Park,Manhattan
+26,152,3085,-1338,-1413,194,-1,97,28,-56,65,-19,-67,5,-110,152,Manhattanville,Manhattan
+34,243,2185,-897,-1028,166,36,45,44,-7,57,0,-83,-44,-106,243,Washington Heights North,Manhattan
+55,24,1379,-673,-587,38,78,51,-15,64,24,-60,-5,-39,13,24,Bloomingdale,Manhattan
+58,127,1176,-517,-528,104,60,25,53,-35,-24,25,-75,12,-15,127,Inwood,Manhattan
+75,236,917,-502,-354,9,44,109,-43,30,19,-43,-2,5,-25,236,Upper East Side North,Manhattan
+135,263,327,-164,-117,17,41,52,-62,28,16,-30,-15,36,-14,263,Yorkville West,Manhattan
+140,140,301,-180,-105,31,26,74,-17,9,24,-27,-25,34,1,140,Lenox Hill East,Manhattan
+142,137,278,-147,-106,29,10,32,-18,20,9,-14,-19,31,-23,137,Kips Bay,Manhattan
+153,231,213,-120,-89,11,2,11,-1,5,4,-10,4,5,-9,231,TriBeCa/Civic Center,Manhattan
+156,153,198,-81,-91,17,4,37,9,19,-7,-8,-6,-7,-3,153,Marble Hill,Manhattan
+161,232,176,-82,-84,10,20,16,9,13,4,-21,-7,-8,2,232,Two Bridges/Seward Park,Manhattan
+162,151,169,-97,-58,2,27,19,12,-16,11,-1,-6,17,4,151,Manhattan Valley,Manhattan
+166,238,151,-90,-51,3,20,17,-1,9,14,-20,-8,10,-5,238,Upper West Side North,Manhattan
+170,170,141,-71,-62,16,11,34,-12,9,27,-20,-2,4,-10,170,Murray Hill,Manhattan
+171,45,140,-69,-66,2,8,4,-1,20,-19,-1,-4,9,-6,45,Chinatown,Manhattan
+172,87,133,-52,-79,-1,12,-2,13,3,-16,1,6,-5,14,87,Financial District North,Manhattan
+177,128,103,-50,-48,4,19,16,-11,4,1,-4,9,-3,-1,128,Inwood Hill Park,Manhattan
+180,107,99,-52,-32,-1,9,19,-4,-1,15,-4,-18,14,-4,107,Gramercy,Manhattan
+181,141,97,-68,-25,10,12,-1,11,11,-3,-10,19,-15,6,141,Lenox Hill West,Manhattan
+182,88,90,-45,-42,-2,5,2,2,0,2,3,-3,-4,10,88,Financial District South,Manhattan
+185,4,80,-48,-21,-2,7,2,17,-13,10,-3,-9,7,-10,4,Alphabet City,Manhattan
+186,68,77,-44,-15,6,6,4,13,3,-11,3,-13,9,4,68,East Chelsea,Manhattan
+188,237,69,-31,-31,-2,16,12,-14,13,11,0,-9,1,0,237,Upper East Side South,Manhattan
+189,48,61,-26,-32,4,15,9,4,-5,12,-12,-5,6,9,48,Clinton East,Manhattan
+190,161,58,-38,-15,3,3,12,-1,2,3,-10,-7,14,0,161,Midtown Center,Manhattan
+191,202,55,-20,-30,7,14,-9,2,-1,2,-1,3,-1,3,202,Roosevelt Island,Manhattan
+192,233,53,-30,-20,0,5,20,-7,4,-6,4,-6,-3,5,233,UN/Turtle Bay South,Manhattan
+193,229,51,-24,-23,0,2,10,1,17,-15,-7,5,6,-6,229,Sutton Place/Turtle Bay North,Manhattan
+195,262,49,-28,-16,4,6,10,5,3,-13,0,1,6,1,262,Yorkville East,Manhattan
+197,50,47,-25,-16,4,10,0,3,-3,2,3,-6,-4,0,50,Clinton West,Manhattan
+198,143,46,-33,-7,-3,4,7,-1,3,2,2,-4,3,-5,143,Lincoln Square West,Manhattan
+200,100,46,-36,-8,0,7,-3,2,4,3,-4,-1,1,4,100,Garment District,Manhattan
+201,162,44,-18,-22,5,1,4,2,15,-6,-4,2,-4,0,162,Midtown East,Manhattan
+202,142,44,-20,-18,4,9,8,-3,-1,6,-11,-3,6,9,142,Lincoln Square East,Manhattan
+203,90,43,-19,-16,-2,12,3,0,7,0,-10,5,-3,-5,90,Flatiron,Manhattan
+204,239,43,-24,-17,3,5,4,-2,4,-3,11,-12,-2,3,239,Upper West Side South,Manhattan
+205,261,42,-24,-16,0,4,5,-5,7,-4,1,-2,3,-3,261,World Trade Center,Manhattan
+206,234,39,-19,-19,7,6,23,-12,-1,-3,-7,11,3,-8,234,Union Sq,Manhattan
+207,224,36,-24,-8,3,1,2,8,-2,-3,3,-1,-6,6,224,Stuy Town/Peter Cooper Village,Manhattan
+209,186,35,-13,-21,3,-2,11,-4,2,4,-1,-7,4,-2,186,Penn Station/Madison Sq West,Manhattan
+210,148,35,-18,-16,0,6,1,3,-5,5,-4,-4,7,-1,148,Lower East Side,Manhattan
+212,120,30,8,-35,12,2,13,-2,2,-11,-7,6,-4,-1,120,Highbridge Park,Manhattan
+213,79,30,-10,-18,0,18,-1,-3,0,3,0,-5,-1,1,79,East Village,Manhattan
+214,194,30,-14,-4,1,-7,11,-6,4,-4,-3,8,-3,-6,194,Randalls Island,Manhattan
+215,113,29,-18,-10,6,-2,14,-8,2,15,-10,-4,0,4,113,Greenwich Village North,Manhattan
+216,144,28,-13,-13,4,-2,12,-5,-1,4,1,-8,4,-1,144,Little Italy/NoLiTa,Manhattan
+220,246,14,4,-6,-6,3,1,5,-6,0,1,-3,-3,7,246,West Chelsea/Hudson Yards,Manhattan
+208,115,35,-8,-18,34,-8,0,8,-17,-11,-7,20,-4,-3,115,Grymes Hill/Clifton,Staten Island
+211,156,30,20,-36,31,9,-13,-2,19,0,-45,27,-34,0,156,Mariners Harbor,Staten Island
+217,23,23,-10,-11,8,92,-89,12,-8,-1,0,29,5,6,23,Bloomfield/Emerson Hill,Staten Island
